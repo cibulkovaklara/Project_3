@@ -93,9 +93,3 @@ Kód obce,Název obce,Registrovaní,Obálky,Platné,Občanská demokratická str
 544272,Borek,1 215,923,914,"13,45 %","0,10 %",...
 ```
 
-## DOPLŇUJÍCÍ INFORMACE
----
-
-- Program ošetřuje nesprávné vstupy, připojení a strukturu HTML.  
-- Pokud URL není z okresní úrovně, program na to upozorní.  
-- CSV soubor je přehledně strukturován pro další analýzu.
